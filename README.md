@@ -19,3 +19,6 @@ kotlin(Activity):
 btn.visibility = View.VISIBLE
 btn.animation = AnimationUtils.loadAnimation(this, R.anim.btn_appearing)
 ```
+
+an example:
+https://github.com/Waoap/Type-Writer/releases/tag/example
