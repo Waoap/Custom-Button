@@ -9,8 +9,8 @@ xml:
     android:layout_height="@dimen/btn_height"
     android:background="@drawable/btn_background"
     android:text="@string/btn"
-    **android:textColor="@color/white"**
-    **android:visibility="invisible"** />
+    android:textColor="@color/white"
+    android:visibility="invisible" />
 ```
 
 kotlin(Activity):
